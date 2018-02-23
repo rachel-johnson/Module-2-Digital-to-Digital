@@ -1,0 +1,46 @@
+# Of Voices, Text Area Name, Text Area Data 
+3,morphBox,
+,pitchInputUtilityBox,-349.177303
+,pitchInputUtilityTextFilter1,
+,pitchInputUtilityTextFilter2,
+,pitchInputUtilityTextFilter3,
+,pitchInputUtilityTextFilter4,
+,durationInputUtilityBox,
+,durationInputUtilityTextFilter1,
+,durationInputUtilityTextFilter2,
+,durationInputUtilityTextFilter3,
+,durationInputUtilityTextFilter4,
+,pitchMapUtilityBox,
+,pitchMapUtilityTextFilter1,
+,pitchMapUtilityTextFilter2,
+,pitchMapUtilityTextFilter3,
+,pitchMapUtilityTextFilter4,
+,durationMapUtilityBox,
+,durationMapUtilityTextFilter1,
+,durationMapUtilityTextFilter2,
+,durationMapUtilityTextFilter3,
+,durationMapUtilityTextFilter4,
+,scaleUtilityBox,
+,scaleUtilityTextFilter1,
+,scaleUtilityTextFilter2,
+,scaleUtilityTextFilter3,
+,scaleUtilityTextFilter4,
+,sequence1,
+,areaPitch1,833768 869221 869221 847274 833768 859092 875975 874286 865845 837145 87091 852339 877663 850651 837145 87091 864157 867533 835456 833768 879351 855715 87091 862468
+,sequence2,
+,areaPitch2,672435  689318  640358  582958  694383  663994  606593  581269  53231  669059  660617  640358  694383  616723  604905  692694  506986  613346  645423  66737  696071  594776  615035  647111  615035
+,,
+,sequence3,
+,areaPitch3,-349.177303
+,dAreaMap1,0 19 37 54 69 81 91 97 99 98 93 85 74 60 43 25 6 -12 -30 -48 -64 -77 -88 -95
+,dAreaMap2,0 19 37 54 69 81 91 97 99 98 93 85 74 60 43 25 6 -12 -30 -48 -64 -77 -88 -95 -99
+,dAreaMap3,0 19 37 54 69 81 91 97 99 98 93 85 74 60 43 25 6 -12 -30 -48 -64 -77 -88 -95 -99
+,mapArea1,82 86 86 83 82 85 87 86 86 82 1 84 87 84 82 1 85 86 82 82 87 84 1 85
+,mapArea2,84 86 79 72 87 83 75 71 1 83 82 79 87 76 75 87 61 76 80 2 87 73 76 80 76
+,mapArea3,1 79 30 76 50 81 61 45 39 33 78 28 44 25 87 76 8 59 31 78 79 44 57 28 56
+,dMapArea1,2 3 3 4 4 4 5 5 5 5 5 5 4 4 3 3 2 2 1 0 0 0 0 0
+,dMapArea2,2 3 3 4 4 4 5 5 5 5 5 5 4 4 3 3 2 2 1 1 0 0 0 0 0
+,dMapArea3,2 3 3 4 4 4 5 5 5 5 5 5 4 4 3 3 2 2 1 1 0 0 0 0 0
+,so_text_area1,82 86 86 83 82 85 87 86 86 82 1 84 87 84 82 1 85 86 82 82 87 84 1 85
+,so_text_area2,84 86 79 72 87 83 75 71 1 83 82 79 87 76 75 87 61 76 80 2 87 73 76 80 76
+,so_text_area3,1 79 30 76 50 81 61 45 39 33 78 28 44 25 87 76 8 59 31 78 79 44 57 28 56
